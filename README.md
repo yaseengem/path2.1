@@ -1,3 +1,5 @@
+https://github.com/acelords/flutter-starter-kit
+
 # Flutter Starter Kit (Boilerplate) using the BLoC Pattern
 
 A Flutter starter application that utilizes the BLoC Pattern.
